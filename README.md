@@ -5,4 +5,4 @@ FDD emulator for soviet computer Nemiga
 Данный компьютер испольховался в составе КУВТ в школах
 Эмулятор использует образы дисков на SD-карте.
 Также может выступать как доп ПЗУ на шине МПИ.
-Сайт проекта: http://vwarlock.github.io/uknc-fdd2sd/
+Сайт проекта: http://vwarlock.github.io/nemiga-fdd2sd/
